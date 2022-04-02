@@ -1,3 +1,7 @@
 line1
 line-from-fix
+<<<<<<< HEAD
 line-from-main1
+=======
+line-from-fix1
+>>>>>>> fix-c2
