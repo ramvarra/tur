@@ -1,2 +1,2 @@
 line1:shreya-change:c1
-line2:shreya-new-line
+line2:shreya-new-line:c2
